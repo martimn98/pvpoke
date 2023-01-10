@@ -16,7 +16,7 @@ function PokeMultiSelect(element){
 	var selectedIndex = -1;
 	var pokeSelector;
 
-	var maxPokemonCount = 100;
+	var maxPokemonCount = 4096;
 	var selectedGroup = "";
 	var selectedGroupType = "";
 	var pokebox;
